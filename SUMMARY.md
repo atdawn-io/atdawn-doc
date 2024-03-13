@@ -24,8 +24,8 @@
 * [Marketing Program](project-planning/marketing-program.md)
 * [R\&D Program](project-planning/r-and-d-program.md)
 
-***
+## Information
 
-* [Contract Address](contract-address.md)
-* [Tokenomics](tokenomics.md)
-* [Input Mapping](input-mapping.md)
+* [Contract Address](information/contract-address.md)
+* [Tokenomics](information/tokenomics.md)
+* [Input Mapping](information/input-mapping.md)
