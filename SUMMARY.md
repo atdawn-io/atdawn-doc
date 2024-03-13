@@ -4,7 +4,7 @@
 
 ## Game Content
 
-* [Page](game-content/page.md)
+* [Connect Wallet](game-content/connect-wallet.md)
 
 ## Project Planning
 
