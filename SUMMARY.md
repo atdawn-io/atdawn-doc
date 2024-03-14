@@ -11,7 +11,7 @@
   * [Waiting Room](game-content/gaming-lobby/waiting-room.md)
   * [Matching Room](game-content/gaming-lobby/matching-room.md)
   * [Game Server List](game-content/gaming-lobby/game-server-list.md)
-  * [Friend Module](game-content/gaming-lobby/friend-module.md)
+  * [Friend](game-content/gaming-lobby/friend.md)
   * [Chat Module](game-content/gaming-lobby/chat-module.md)
 * [Game Mode](game-content/game-mode.md)
 * [Character & Finance](game-content/character-and-finance.md)
