@@ -21,6 +21,7 @@
 * [Gun & Finance](game-content/gun-and-finance.md)
 * [Gun Skin & Finance](game-content/gun-skin-and-finance.md)
 * [Invitations & Rewards](game-content/invitations-and-rewards.md)
+* [Battle Team](game-content/battle-team.md)
 
 ## Project Planning
 
