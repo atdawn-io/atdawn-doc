@@ -12,7 +12,7 @@
   * [Matching Room](game-content/gaming-lobby/matching-room.md)
   * [Game Server List](game-content/gaming-lobby/game-server-list.md)
   * [Friend](game-content/gaming-lobby/friend.md)
-  * [Chat Module](game-content/gaming-lobby/chat-module.md)
+  * [Chat](game-content/gaming-lobby/chat.md)
 * [Game Mode](game-content/game-mode.md)
 * [Character & Finance](game-content/character-and-finance.md)
 * [Play & Finance](game-content/play-and-finance.md)
