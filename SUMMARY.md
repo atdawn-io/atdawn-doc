@@ -22,6 +22,7 @@
 * [Gun Skin & Finance](game-content/gun-skin-and-finance.md)
 * [Invitations & Rewards](game-content/invitations-and-rewards.md)
 * [Battle Team](game-content/battle-team.md)
+* [Creative Workshop](game-content/creative-workshop.md)
 
 ## Project Planning
 
