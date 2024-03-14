@@ -22,7 +22,7 @@ layout:
 
 # Welcome
 
-{% embed url="https://www.youtube.com/watch?v=yeFqCVR-Lzw" %}
+{% embed url="https://youtu.be/X9D2mLtwhtg" %}
 
 ## Quick links
 
