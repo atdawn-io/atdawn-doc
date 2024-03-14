@@ -26,7 +26,6 @@
 
 ## Project Planning
 
-* [Marketing Program](project-planning/marketing-program.md)
 * [R\&D Program](project-planning/r-and-d-program.md)
 
 ## Information
