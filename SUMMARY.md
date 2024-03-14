@@ -8,6 +8,7 @@
 * [Gaming Lobby](game-content/gaming-lobby/README.md)
   * [Create Room](game-content/gaming-lobby/create-room.md)
   * [Join Room](game-content/gaming-lobby/join-room.md)
+  * [Waiting Room](game-content/gaming-lobby/waiting-room.md)
   * [Matching Room](game-content/gaming-lobby/matching-room.md)
   * [Game Server List](game-content/gaming-lobby/game-server-list.md)
   * [Friend Module](game-content/gaming-lobby/friend-module.md)
