@@ -52,8 +52,3 @@ The objective of the Kill Confirmed game mode is for two opposing teams to compe
 
 The objective of the Cover Point game mode is for players to take control of and defend strategic positions on the map while preventing the opposing team from doing the same. In Cover Point, players are divided into two teams, with each team aiming to control and defend the most cover points on the map.
 
-
-
-{% hint style="info" %}
-Currently, only 'Free For All', 'Team Death Match' and 'Capture The Flag' modes are available.
-{% endhint %}
