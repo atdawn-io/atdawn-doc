@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Play & Finance
+# Play & Earn
 
 <div>
 
@@ -40,5 +40,5 @@ layout:
 </div>
 
 {% hint style="info" %}
-Finance not yet open.
+After the game battle is over submit the score to the chain contract for settlement, randomly giving different boxes.
 {% endhint %}
