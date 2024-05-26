@@ -39,6 +39,10 @@ Consumables for opening chests. Can be purchased by opening chests or in stores.
 
 <figure><img src="../.gitbook/assets/openbox1.png" alt=""><figcaption></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/openbox3.png" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 ## Finance
