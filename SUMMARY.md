@@ -33,3 +33,4 @@
 * [Contract Address](information/contract-address.md)
 * [Tokenomics](information/tokenomics.md)
 * [Input Mapping](information/input-mapping.md)
+* [Credits](information/credits.md)
