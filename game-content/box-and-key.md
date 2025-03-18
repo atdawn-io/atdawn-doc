@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Box & Key & Finance
+# Box & Key
 
 <figure><img src="../.gitbook/assets/box.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,18 +31,4 @@ Consumables for opening chests. Can be purchased by opening chests or in stores.
 
 ## Open Box
 
-<div>
-
-<figure><img src="../.gitbook/assets/boxlist.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/openbox1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/openbox3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-## Finance
+<div><figure><img src="../.gitbook/assets/boxlist.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/openbox1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/openbox3.png" alt=""><figcaption></figcaption></figure></div>

@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../../.gitbook/assets/08 - hero width.png
 coverY: 0
 layout:

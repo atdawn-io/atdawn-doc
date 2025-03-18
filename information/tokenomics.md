@@ -20,12 +20,11 @@ layout:
 
 # Tokenomics
 
-| GROUP        | PROPORTION | AMOUNT | UNLOCK |
-| ------------ | ---------- | ------ | ------ |
-| DEVELOPMENT  |            |        |        |
-| FUND RAISE   |            |        |        |
-| COMMUNITY    |            |        |        |
-| LAUNCH       |            |        |        |
-| LIQUIDITY    |            |        |        |
-| GAME FINANCE |            |        |        |
+| GROUP       | PROPORTION | AMOUNT | UNLOCK |
+| ----------- | ---------- | ------ | ------ |
+| DEVELOPMENT |            |        |        |
+| FUND RAISE  |            |        |        |
+| COMMUNITY   |            |        |        |
+| LAUNCH      |            |        |        |
+| LIQUIDITY   |            |        |        |
 
